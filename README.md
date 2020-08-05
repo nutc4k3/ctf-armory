@@ -1,6 +1,6 @@
 <p align="center">
   <img src="/img/loo.png" width="350">
- <br>☆.｡.:* Useful scripts for ctfs .｡.:*☆<br><br><br>
+ <br><b>☆.｡.:* Useful scripts for ctfs .｡.:*☆<b><br><br><br>
 </p>
 
 ### Choose your weapons!
