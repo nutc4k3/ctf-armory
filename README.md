@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="/img/loo.png" width="400">
+  <img src="/img/loo.png" width="350">
  <br>☆.｡.:* Useful scripts for ctfs .｡.:*☆<br><br><br>
 </p>
 
-## Choose your weapons!
+### Choose your weapons!
 
 **[✧] Hardware:**
 
