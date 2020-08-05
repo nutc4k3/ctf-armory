@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/img/loo.png" width="200">
+  <img src="/img/loo.png" width="400">
  <br>☆.｡.:* Useful scripts for ctfs .｡.:*☆
 </p>
 
