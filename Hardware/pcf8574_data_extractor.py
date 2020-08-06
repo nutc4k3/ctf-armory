@@ -1,5 +1,4 @@
 ''' 
-From an analysed i2c file (saleae output, for example)
 Parses only the data of the PCF8574 communication from an analysed i2c file (saleae output, for example)
 '''
 
