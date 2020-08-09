@@ -8,3 +8,5 @@
 **[✧] Hardware:**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;» [*Liquid Crystal PCF8574 Data extractor*](/Hardware/pcf8574_data_extractor.py)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;» [*Sigrok Decoders*](/Hardware/sigrok-decoders/README.md)
