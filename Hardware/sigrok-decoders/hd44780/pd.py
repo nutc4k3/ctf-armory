@@ -111,7 +111,7 @@ class Decoder(srd.Decoder):
     )
     options = (
         {'id': 'lcd_mode', 'desc': 'LCD Mode',
-            'default': '4bit', 'values': ('4bit', '8bit')},
+            'default': '4bit', 'values': ('4bit')},
     )
 
     def __init__(self):
