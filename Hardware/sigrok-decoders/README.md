@@ -1,10 +1,11 @@
 # Sigrok Decoders
 
-Some [sigrok decorders](https://sigrok.org/wiki/Protocol_decoders)
+Some [sigrok decorders](https://sigrok.org/wiki/Protocol_decoders) compatible with [PulseView](https://sigrok.org/wiki/PulseView)
 
-* PCF8574
-* HD44780 (Only 4 bit mode, expecting PCF8574 decoder output)
+## Decoders
 
+* [**PCF8574**](pcf8574/README.md)
+* [**HD44780**](hd44780/README.md) (Only 4 bit mode, expecting PCF8574 decoder output)
 
 ## How to install / use
 
